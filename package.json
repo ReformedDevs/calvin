@@ -33,7 +33,6 @@
     "hubot-praise": "^0.1.3",
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.3",
-    "hubot-respond": "^1.0.6",
     "hubot-ross": "^1.0.1",
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.17.2",
