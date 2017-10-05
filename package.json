@@ -7,7 +7,6 @@
   "dependencies": {
     "hubot": "^2.19.0",
     "hubot-ab": "^1.1.3",
-    "hubot-belike": "github:dennisvink/hubot-belike",
     "hubot-catme": "^1.0.0",
     "hubot-commitstrip": "^1.0.1",
     "hubot-cool-ascii-faces": "^1.2.0",
